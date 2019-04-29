@@ -45,10 +45,11 @@ see the changes take effect locally.
 {% comment %}
 REGISTRATION
 Please register at: <a href="https://www.cyverse.org/events-1/genomics-data-carpentry-workshop/form">CyVerse Events</a>
+{% endcomment %}
 
 {% comment %}
 INTRODUCTION
-{% endif %}
+
 
 Edit the general explanatory paragraph below if you want to change
 the pitch.
