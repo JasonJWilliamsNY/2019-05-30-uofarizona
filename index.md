@@ -43,7 +43,7 @@ see the changes take effect locally.
 <h2 id="general">General Information</h2>
 
 
-REGISTRATION
+<strong>REGISTRATION:</strong>
 Please register at: <a href="https://www.cyverse.org/events-1/genomics-data-carpentry-workshop/form">CyVerse Events</a>
 
 
