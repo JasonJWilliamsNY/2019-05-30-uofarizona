@@ -271,13 +271,7 @@ This is the other place where people frequently make mistakes, so
 please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
-<div>
-<br>
-<p>
-<p>
-<p>
-<br>
-</div>
+
 <h2 id="setup">Setup</h2>
 <p>
   To participate in a Data Carpentry workshop,
