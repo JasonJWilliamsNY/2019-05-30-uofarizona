@@ -272,6 +272,10 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 <br>
+<p>
+<p>
+<p>
+<br>
 <h2 id="setup">Setup</h2>
 <p>
   To participate in a Data Carpentry workshop,
