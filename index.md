@@ -48,6 +48,7 @@ Please register at: <a href="https://www.cyverse.org/events-1/genomics-data-carp
 
 {% comment %}
 INTRODUCTION
+{% endif %}
 
 Edit the general explanatory paragraph below if you want to change
 the pitch.
