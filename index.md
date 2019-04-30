@@ -272,9 +272,7 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 
-  <br>
-  <br>
- <div stye="margin-top: 50px;">
+ <div stye="margin-top: 5000px">
 
   <h2 id="setup">Setup</h2>
   <p>
