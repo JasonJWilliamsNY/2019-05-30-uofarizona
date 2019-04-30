@@ -249,7 +249,7 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 <h2 id="syllabus">Syllabus</h2>
-
+<div class="row-fluid">
 {% if page.carpentry == "swc" %}
 {% include sc/syllabus.html %}
 {% elsif page.carpentry == "dc" %}
@@ -257,7 +257,7 @@ please preview your site before committing, and make sure to run
 {% elsif page.carpentry == "lc" %}
 {% include lc/syllabus.html %}
 {% endif %}
-
+</div>
 <hr/>
 
 {% comment %}
