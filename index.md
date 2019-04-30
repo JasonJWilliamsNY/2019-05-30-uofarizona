@@ -272,7 +272,7 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 
- <div stye="margin-top: 5000px">
+
 
   <h2 id="setup">Setup</h2>
   <p>
@@ -498,4 +498,3 @@ please preview your site before committing, and make sure to run
   <li>Click on the large button for the Download Binary Distribution
   <li>Find the zip archive on your computer and expand it
   <li>To run IGV, double-click on the IGV.bat file.
- </div>
