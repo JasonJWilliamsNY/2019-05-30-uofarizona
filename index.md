@@ -259,7 +259,7 @@ please preview your site before committing, and make sure to run
 {% endif %}
 
 <hr/>
-
+<div>
 {% comment %}
 SETUP
 
@@ -496,3 +496,4 @@ looking at SAM and BAM files, SNPs, and variant calls.
 <li>Click on the large button for the Download Binary Distribution
 <li>Find the zip archive on your computer and expand it
 <li>To run IGV, double-click on the IGV.bat file.
+</div>
