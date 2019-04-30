@@ -274,7 +274,7 @@ please preview your site before committing, and make sure to run
 
   <br>
   <br>
- <div>
+ <div stye="margin-top: 50px;">
 
   <h2 id="setup">Setup</h2>
   <p>
