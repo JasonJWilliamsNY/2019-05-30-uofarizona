@@ -43,9 +43,7 @@ see the changes take effect locally.
 <h2 id="general">General Information</h2>
 
 
-<h3><strong>REGISTRATION:</strong></h3>
-<br>
-Please register at: <a href="http://bit.ly/2PBceP7 ">Google Sheet Registration</a>
+<h4><strong>REGISTRATION:</strong> Please register at: <a href="http://bit.ly/2PBceP7 ">Google Sheet Registration</a></h4>
 
 
 {% comment %}
@@ -158,7 +156,7 @@ Display the contact email address set in the configuration file.
 {% endcomment %}
 <p id="contact">
   <strong>Contact</strong>:
-  Please email
+  Please email Jason Williams
   {% if page.email %}
   {% for email in page.email %}
   {% if forloop.last and page.email.size > 1 %}
@@ -173,7 +171,7 @@ Display the contact email address set in the configuration file.
   {% else %}
   to-be-announced
   {% endif %}
-  for more information about content and Uwe Hilger, <a href='mailto:hilgert@bio5.org'>hilgert@bio5.org</a> for information on local logistics.
+  for more information about workshop content and Uwe Hilgert, <a href='mailto:hilgert@bio5.org'>hilgert@bio5.org</a> for information on local logistics.
 </p>
 
 <hr/>
