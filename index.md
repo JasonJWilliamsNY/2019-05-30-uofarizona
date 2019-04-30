@@ -43,8 +43,9 @@ see the changes take effect locally.
 <h2 id="general">General Information</h2>
 
 
-<strong>REGISTRATION:</strong>
-Please register at: <a href="https://www.cyverse.org/events-1/genomics-data-carpentry-workshop/form">CyVerse Events</a>
+<h3><strong>REGISTRATION:</strong></h3>
+<br>
+Please register at: <a href="http://bit.ly/2PBceP7 ">Google Sheet Registration</a>
 
 
 {% comment %}
@@ -172,7 +173,7 @@ Display the contact email address set in the configuration file.
   {% else %}
   to-be-announced
   {% endif %}
-  for more information.
+  for more information about content and Uwe Hilger, <a href='mailto:hilgert@bio5.org'>hilgert@bio5.org</a> for information on local logistics.
 </p>
 
 <hr/>
