@@ -271,9 +271,11 @@ This is the other place where people frequently make mistakes, so
 please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
+
+  <br>
+  <br>
  <div>
-  <br>
-  <br>
+
   <h2 id="setup">Setup</h2>
   <p>
   To participate in a Data Carpentry workshop,
