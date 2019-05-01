@@ -271,8 +271,8 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 
-  <h2 id="sponsors">Sponsor</h2>
-  <p> Thanks to the following sponsors of this workshop
+  <h2 id="sponsors">Sponsors</h2>
+  <p> Thanks to the following sponsors of this workshop</p>
   <br>
   <img src="BIO5_ALTERNATE.png" alt="BIO5" style="width:350px;height:100px;">
   <img src="Cntr_Bio_Info_BioStart.png" alt="BIO5" style="width:450px;height:100px;">
