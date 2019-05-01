@@ -274,11 +274,11 @@ please preview your site before committing, and make sure to run
   <h2 id="sponsors">Sponsors</h2>
   <p> Thanks to the following sponsors of this workshop</p>
   <br>
-  <img src="BIO5_ALTERNATE.png" alt="BIO5" style="width:350px;height:100px;">
-  <img src="Cntr_Bio_Info_BioStart.png" alt="BIO5" style="width:450px;height:100px;">
+  <img src="BIO5_ALTERNATE.png" alt="BIO5" style="width:3240px;height:70px;">
+  <img src="Cntr_Bio_Info_BioStart.png" alt="BIO5" style="width:450px;height:80px;">
   <br>
-  <img src="DataScienceInstitute_PRIMARY.png" alt="BIO5" style="width:400px;height:100px;">
-  <img src="cyverse_logo.png" alt="BIO5" style="width:400px;height:100px;">
+  <img src="DataScienceInstitute_PRIMARY.png" alt="BIO5" style="width:400px;height:95px;">
+  <img src="cyverse_logo.png" alt="BIO5" style="width:400px;height:110px;">
 
   <h2 id="setup">Setup</h2>
   <p>
