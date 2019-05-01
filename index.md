@@ -271,7 +271,12 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 
-
+  <h2 id="sponsors">Sponsor</h2>
+  <p> Thanks to the following sponsors of this workshop
+  <img src="BIO5_ALTERNATE.png" alt="BIO5" style="width:300px;height:100px;">
+  <img src="Cntr_Bio_Info_BioStart.png" alt="BIO5" style="width:300px;height:100px;">
+  <img src="DataScienceInstitute_PRIMARY.png" alt="BIO5" style="width:300px;height:100px;">
+  <img src="cyverse_logo.png" alt="BIO5" style="width:300px;height:100px;"> 
 
   <h2 id="setup">Setup</h2>
   <p>
