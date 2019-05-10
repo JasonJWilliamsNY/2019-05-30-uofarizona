@@ -294,8 +294,8 @@ please preview your site before committing, and make sure to run
 
   <h3 id="General">Accounts needed for workshop</h3>
   <p>This workshop will be hosted using CyVerse resources.
-     Register for a CyVerse account if you have not already done so at <a href="https://user.cyverse.org/">https://user.cyverse.org/</a>.
-     Request access to Atmosphere: To request access to Atmosphere, login to the CyVerse User Portal (<a href="https://user.cyverse.org/">https://user.cyverse.org/</a>). In the Services Menu under ‘MY SERVICES’ you should see Atmosphere listed as an option you can launch. If not, look under the Available menu, and click the ‘REQUEST ACCESS’ link. You will receive an email requesting additional information. To qualify for an Atmosphere account, your CyVerse account must be associated with an institutional email address (e.g. .edu/.org/.gov). For justification, you may comment that you are attending the May 2019 workshop at the University of Arizona.
+     <ul><li>Register for a CyVerse account if you have not already done so at <a href="https://user.cyverse.org/">https://user.cyverse.org/</a>.
+     <li>Request access to Atmosphere: To request access to Atmosphere, login to the CyVerse User Portal (<a href="https://user.cyverse.org/">https://user.cyverse.org/</a>). In the Services Menu under ‘MY SERVICES’ you should see Atmosphere listed as an option you can launch. If not, look under the Available menu, and click the ‘REQUEST ACCESS’ link. You will receive an email requesting additional information. To qualify for an Atmosphere account, your CyVerse account must be associated with an institutional email address (e.g. .edu/.org/.gov). For justification, you may comment that you are attending the May 2019 workshop at the University of Arizona.</ul>
   </p>
 
   <h3 id="platform_specfic">Platform-specific Notes</h3>
