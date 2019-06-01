@@ -1,0 +1,47 @@
+---
+title: "Preliminary results of E. coli long-term experiment"
+author: "Francois"
+date: "5/31/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+variants_indel <- read_csv("variants_indel.csv")
+```
+
+## Presentation of the data
+
+Here is a summary of our dataset.
+
+```{r summary}
+glimpse(variants_indel)
+```
+
+Here is the summary for the different types of mutations observed in our sample.
+
+```{r, echo=FALSE}
+variants_wide <- variants_indel %>% 
+  count(sample_id, mutation_type) %>% 
+  spread(mutation_type, n)
+knitr::kable(variants_wide)
+```
+
+## Quality of the reads by mutation type
+
+```{r, echo=FALSE}
+ggplot(variants_indel,
+       aes(x=mutation_type, y=QUAL)) +
+  geom_boxplot(
+    aes(fill = mutation_type,
+        color = mutation_type),
+               alpha = .2) +
+  geom_point(
+    aes(color=mutation_type),
+    position="jitter", alpha=.4) +
+  scale_color_viridis_d()
+```
+
+
+

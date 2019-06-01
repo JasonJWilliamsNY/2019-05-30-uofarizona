@@ -257,7 +257,13 @@ please preview your site before committing, and make sure to run
 {% include lc/syllabus.html %}
 {% endif %}
 </div>
-<hr/>
+
+## R scripts written during the workshop
+
+* [R part 1]({% link files/genomics_r_basics.R %})
+* [R part 2]({% link files/genomics_data_analysis.R %})
+* [knitr/Rmarkdown example]({% link files/report.Rmd %})
+
 
 {% comment %}
 SETUP
@@ -271,8 +277,8 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 
-  <h2 id="sponsors">Sponsors</h2>
-  <p> Thanks to the following sponsors of this workshop</p>
+<h2 id="sponsors">Sponsors</h2>
+<p> Thanks to the following sponsors of this workshop</p>
   <br>
   <img src="BIO5_ALTERNATE.png" alt="BIO5" style="width:240px;height:70px;">
   <img src="Cntr_Bio_Info_BioStart.png" alt="BIO5" style="width:450px;height:80px;">
@@ -510,3 +516,5 @@ please preview your site before committing, and make sure to run
   <li>Click on the large button for the Download Binary Distribution
   <li>Find the zip archive on your computer and expand it
   <li>To run IGV, double-click on the IGV.bat file.
+
+<hr/>
